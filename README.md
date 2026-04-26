@@ -12,3 +12,5 @@ Featured Project:
 [Quoting App Repo]
 
 Open to QA Automation / SDET roles.
+
+LinkedIn: https://www.linkedin.com/in/matthew-larck
