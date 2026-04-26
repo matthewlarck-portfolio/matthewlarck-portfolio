@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi, I’m Matthew.
 
-<!--
-**matthewlarck-portfolio/matthewlarck-portfolio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently building:
+- Playwright automation framework
+- UI/API test coverage
+- CI/CD validation workflows
 
-Here are some ideas to get you started:
+Tech:
+Playwright | TypeScript | React | GitHub Actions | Firebase
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Featured Project:
+[Quoting App Repo]
+
+Open to QA Automation / SDET roles.
