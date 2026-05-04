@@ -9,7 +9,7 @@ Tech:
 Playwright | TypeScript | React | GitHub Actions | Firebase
 
 Featured Project:
-https://github.com/matthewlarck-portfolio/QuotingApp
+https://github.com/matthewlarck-portfolio/playwright-quote-automation
 
 Open to QA Automation / SDET roles.
 
