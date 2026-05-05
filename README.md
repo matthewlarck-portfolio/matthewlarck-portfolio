@@ -1,18 +1,21 @@
 Hi, I’m Matthew.
 
+Navy Veteran and Systems Test Engineer focused on validating real-world systems across software, data, and user workflows.
+
 Currently building:
-- Playwright automation framework
-- UI/API test coverage
-- CI/CD validation workflows
+
+End-to-end system validation using Playwright + TypeScript
+Integration testing across frontend, backend, and database layers
+CI/CD pipelines for automated system verification
 
 Tech:
-Playwright | TypeScript | React | GitHub Actions | Firebase
+TypeScript | Playwright | React | GitHub Actions | Firebase | System Testing | Integration Testing
 
 Featured Project:
 https://github.com/matthewlarck-portfolio/playwright-quote-automation
 
-Open to QA Automation / SDET roles.
+Live Demo:
+https://designerblinds-c482a.web.app/
 
-LinkedIn: https://www.linkedin.com/in/matthew-larck
-
-Live Demo: https://designerblinds-c482a.web.app/
+LinkedIn:
+https://www.linkedin.com/in/matthew-larck
