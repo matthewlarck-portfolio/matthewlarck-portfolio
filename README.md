@@ -11,6 +11,8 @@ CI/CD pipelines for automated system verification
 Tech:
 TypeScript | Playwright | React | GitHub Actions | Firebase | System Testing | Integration Testing
 
+
+
 Featured Project:
 https://github.com/matthewlarck-portfolio/playwright-quote-automation
 
